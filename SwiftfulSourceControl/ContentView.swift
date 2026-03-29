@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Hello! thinking")
+            Text("Hello! thinking!!!!!!")
             
             Button("Subscribe now") {
                 
